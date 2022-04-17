@@ -178,6 +178,7 @@ a:visited{
   flex-direction: column;
   margin: auto;
   margin-bottom: 20px;
+  margin-top: 20px;
   
   
 }
@@ -198,5 +199,9 @@ a:visited{
 .desc{
   font-size: 11px;
   padding: 10px;
+}
+
+.skills-section{
+  margin-top: 20px;
 }
 
