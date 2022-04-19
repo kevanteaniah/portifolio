@@ -197,11 +197,15 @@ a:visited{
 }
 
 .desc{
-  font-size: 11px;
+  font-size: 12px;
   padding: 10px;
 }
 
 .skills-section{
   margin-top: 20px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
